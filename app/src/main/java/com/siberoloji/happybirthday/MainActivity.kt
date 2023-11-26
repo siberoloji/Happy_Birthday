@@ -86,6 +86,8 @@ fun GreetingText (message: String, from: String, modifier: Modifier = Modifier) 
     }
 }
 
+
+
 @Preview (showBackground = true)
 @Composable
 fun BirthdayCardPreview() {
